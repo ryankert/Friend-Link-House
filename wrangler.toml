@@ -3,7 +3,6 @@ name = "blogroll"
 type = "webpack"
 account_id = "d945a0d7d4d120cd80b276f4b474ebf9"
 workers_dev = true
-VAR_NA = 1
 # route = "blogroll.icl.moe/*"
 # zone_id = "374cfa163417e4f4a64edb66a0ddc218"
 
