@@ -1,4 +1,5 @@
 # idealclover Blogroll
+[![Deploy](https://github.com/ryankert/Friend-Link-House/actions/workflows/deploy.yml/badge.svg)](https://github.com/ryankert/Friend-Link-House/actions/workflows/deploy.yml)
 
 > 🍭 翠翠和他的朋友们的博客更新
 
