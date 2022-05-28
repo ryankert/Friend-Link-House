@@ -26,7 +26,7 @@ npm run build
 
 ## LICENSE
 
-项目基于 [NJU-LUG/Blogroll](https://github.com/nju-lug/blogroll)，采用 [MIT Licence](./LICENSE)
+项目基于[idealclover/Friend-Link-House](https://github.com/idealclover/Friend-Link-House), and [NJU-LUG/Blogroll](https://github.com/nju-lug/blogroll)，采用 [MIT Licence](./LICENSE)
 
 ## 傻翠的朋友 list
 
