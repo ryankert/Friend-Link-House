@@ -1,7 +1,7 @@
 # idealclover Blogroll
 [![Deploy](https://github.com/ryankert/Friend-Link-House/actions/workflows/deploy.yml/badge.svg)](https://github.com/ryankert/Friend-Link-House/actions/workflows/deploy.yml)
 
-reused
+reused now
 ```
 # 安装依赖
 npm install
