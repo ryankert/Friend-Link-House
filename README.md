@@ -18,9 +18,9 @@ npm run gen
 npm run build
 ```
 
-## 想加翠翠友链？
+## 想加ryan友链？
 
-和 [关于](https://idealclover.top/about.html) 页面中的要求一样，可以在关于页面中进行申请，也可以直接在这个项目中提 [issue](https://github.com/idealclover/blogroll/issues) 或者直接提 [pull request](https://github.com/idealclover/blogroll/pulls)
+可以直接在这个项目中提 [issue](https://github.com/ryankert/Friend-Link-House/issues) 或者直接提 [pull request](https://github.com/ryankert/Friend-Link-House/pulls)
 
 但不保证照单全收哦！
 
