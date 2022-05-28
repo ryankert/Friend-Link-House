@@ -14,7 +14,7 @@ import opmlJson from "./assets/opml.json";
       <a
         id="logo-right"
         target="_blank"
-        href="https://github.com/idealclover/blogroll"
+        href="https://github.com/ryankert/Friend-Link-House/"
       >
         <img id="logo-github" src="./assets/github.png" alt="Logo" />
         <span id="logo-text">GitHub</span>
