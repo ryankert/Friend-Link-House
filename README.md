@@ -34,7 +34,7 @@ npm run build
 | ------------------ | ------------------------------------- | --------------------------- |
 | Idealclover's Blog | https://idealclover.top/feed          | https://idealclover.top/    |
 | RK's blog          | https://blog.ohtoai.fun/feed          | https://blog.ohtoai.fun/    |
-| Ryan's blog        | https://blog.ryankert.dev/feed        | https://blog.ryankert.dev/  |
+| Ryan's blog        | https://blog.ryankert.cc/atom.xml       | https://blog.ryankert.cc/  |
 | Ping's blog        | https://www.pinghenotes.com/rss.xml   | https://www.pinghenotes.com/ |
 | ZGQ's Blog         | https://blog.izgq.net/feed            | https://blog.izgq.net/      |
 | bus1996            | https://bus1996.me/feed               | https://bus1996.me/         |
